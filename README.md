@@ -1,2 +1,8 @@
 # hello-world
-just another repository
+
+hello-world!
+
+Kyle here, and I'm going to tell you all how fun coding is! 
+Coding lets you look at problems differently and
+even solve problems that typically wouldn't be 
+solved through code!
